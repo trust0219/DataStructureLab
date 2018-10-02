@@ -1,0 +1,9 @@
+{
+ "files.associations": {
+  "__split_buffer": "cpp",
+  "vector": "cpp"
+ },
+ "gotoSymbolStack.currentStackPosition": 0,
+ "gotoSymbolStack.maxStackPosition": 0,
+ "gotoSymbolStack.filePositionInfo": []
+}
